@@ -110,7 +110,7 @@ shader_parameter/texture_normal = SubResource("NoiseTexture2D_02gn4")
 
 [sub_resource type="BoxMesh" id="BoxMesh_5dfdm"]
 material = SubResource("ShaderMaterial_tlusn")
-size = Vector3(1000, 5, 1000)
+size = Vector3(10000, 5, 10000)
 
 [node name="Node3D" type="Node3D"]
 
